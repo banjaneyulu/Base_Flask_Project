@@ -4,7 +4,7 @@ This is base example project for Python Flask Project. If someone want to start 
 # Basic Setup Requirements
 
 1. Install Latest Python version from https://www.python.org/downloads/
-    - Set system environment variables for Python.exe, pip.exe ([refer](https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables))
+    - Set system environment variables for Python.exe, pip.exe (https://docs.python.org/3/using/windows.html#excursus-setting-environment-variables)
     - Verify python installation using command `python --version`
     - Verify pip availability using command `pip --version`
 
