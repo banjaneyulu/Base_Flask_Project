@@ -1,12 +1,12 @@
-from flask import Flask
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
 
 @app.route('/')
 def hello():
-    return 'Hello, Github Base_Flask_Project! <BR> <a href="/secondLink">Second page </a>'
+    return render_template('home.html')
 
 @app.route('/secondLink')
 def secondLink():
-    return 'Hello, Welcome to second page!<BR> <a href="/">Click here to go home</a>'
+    return render_template('second.html')
