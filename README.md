@@ -23,12 +23,12 @@ This is base example project for Python Flask Project. If someone want to start 
 
 1. Application
     - `app.py` is the driver file for the application.
-    - By default UI templates are kept inside `templates` folder which will be automatically picked by frameowrk
+    - By default UI templates are kept inside `templates` folder which will be automatically picked by framework
     - Styles, Scripts are kept inside `static` folder
 2. Framework
     - `static` folder will have styles including the custom styles and bootstrap
     - Using `Bootstrap`, `Jquery` frameworks for UI
-    - Boostrap downloaded and kept with the project, so local dovelpement loading will be faster.
+    - Bootstrap downloaded and kept with the project, so local development loading will be faster.
 
 ### How to use project
 
