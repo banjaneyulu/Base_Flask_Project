@@ -13,7 +13,7 @@ This is base example project for Python Flask Project. If someone want to start 
     - Create a project folder and change directory to the project directory using command `cd`
     - Install Flask using `pip install flask`
     - Verify flask version using the command `python -c "import flask; print(flask.__version__)"`
-    - Copy `app.py` file from ``
+    - Copy `app.py` file from `https://github.com/banjaneyulu/Base_Flask_Project/blob/main/app.py`
 
 3. Run Flask Application
     - Run Flask application using `flask run`
